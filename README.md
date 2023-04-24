@@ -50,7 +50,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40" />
   
-[![Generate Datas](https://github.com/danielpirangi12/danielpirangi12/actions/workflows/snake.yml/badge.svg)](https://github.com/danielpirangi12/danielpirangi12/actions/workflows/snake.yml)
 
           
           
