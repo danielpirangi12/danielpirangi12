@@ -46,7 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />
 
 
-## contatos
+## Contacts
 
 - ✉️ E-mail: danielpirangi12@gmail.com
 - 💬 Whatsapp: +5583981716207
